@@ -1,9 +1,9 @@
-# Instagram Clone
+# Intact
 
-A completely Responsive Instagram App- Works on Android, iOS & Web! 
+A completely Responsive I App- Works on Android, iOS & Web! 
 
 ## Features
-- Responsive Instagram UI
+- Responsive Intact UI
 - Email & Password Authentication
 - Share Posts with Caption
 - Display Posts with Caption
@@ -16,12 +16,12 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
 
 
 <p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/instagram-flutter-clone/blob/master/screenshot.png" alt="Youtube Tutorial Image">
+  <img width="600" src="https://github.com/RivaanRanawat/Intact-flutter-clone/blob/master/screenshot.png" alt="Youtube Tutorial Image">
 </p>
 
 
 ## Installation
-After cloning this repository, migrate to ```instagram-flutter-clone``` folder. Then, follow the following steps:
+After cloning this repository, migrate to ```Intact-flutter-clone``` folder. Then, follow the following steps:
 - Create Firebase Project
 - Enable Authentication
 - Make Firestore Rules
