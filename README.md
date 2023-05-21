@@ -15,9 +15,7 @@ A completely Responsive I App- Works on Android, iOS & Web!
 - Sign Out
 
 
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/Intact-flutter-clone/blob/master/screenshot.png" alt="Youtube Tutorial Image">
-</p>
+
 
 
 ## Installation
@@ -42,5 +40,5 @@ Then run the following commands to run your app:
     
 ## Feedback
 
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
+
 
